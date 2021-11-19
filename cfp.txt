@@ -1,0 +1,135 @@
+We are excited to announce that the call for proposals is now open for the
+Network devroom at [FOSDEM 2022]. FOSDEM is a free event for engineers to meet,
+share ideas and collaborate. FOSDEM is one of the largest events of its kind,
+hosting, thousands of developers of free and open source software from all over
+the world.
+
+Please note that, due to Covid-19, FOSDEM will be held virtually again next year
+on the 5th and 6th of February, 2022. All presentations will be pre-recorded
+with live chat during each presentation and live Q&A after each presentation.
+
+
+[FOSDEM 2022] https://fosdem.org/2022/
+
+
+Important Dates
+===============
+
+   Sunday 12th December  Submission deadline                             
+   Friday 24th December  Announcement of selected talks                  
+   Friday 28th January   Recorded Presentation and slide upload deadline 
+   5 & 6th February      Conference dates (online)                       
+   TBD                   Network devroom date (online)                   
+
+
+About the devroom
+=================
+
+  The FOSDEM Network devroom hosts a diversity of talks covering open source
+  networking projects and technologies. The scope of the Network devroom is
+  broad and targets those software developers engaged in network design,
+  monitoring, management and software development with open source tools.
+
+  We typically host a variety of talks on Networking topics including:
+  - Network monitoring (inventory, discovery & telemetry),
+  - Network management (enterprise, carrier-grade, cloud, IoT)
+  - Networking protocols (the full alphabet soup)
+  - Security (IPS, IDS, protocols)
+  - Authentication
+  - Development tools (libraries, SDKs, plugins)
+  - Network stacks
+
+
+Suggested Topics:
+=================
+
+  If it moves network packets, monitors, or interacts with, or supervises
+  entities that moves network packets, it is likely a topic the devroom is
+  interested in. A very /non-exhaustive/ list of the projects and topics we
+  would love to see on the schedule are:
+
+   Monitoring   Nagios, Icinga2, Naemon, NTop, SNAS, Graphana, Prometheus, collectd 
+   Frameworks   DPDK, eBPF, XDP, FD.io, PANDA                                       
+   Switching    Snabb, OpenvSwitch, Tungsten Fabric, Lagopus, FastClick             
+   Stacks       Linux, *BSD, F-Stack                                                
+   Controllers  Istio, Envoy, Network Service Mesh, OpenDayLight, Calico, Contiv    
+   Edge         Akraino, Openness                                                   
+   Routing      FRRouting, BIRD, Go-BGP                                             
+   Management   ONAP, Ganglia, NetSNMP, PNDA.io                                     
+   Security     Suricata, Snort                                                     
+   Tooling      VSPerf, TRex, Moongen, Scapy, Warp17                                
+
+
+  Talks should be aimed at a technical audience, but should not assume that
+  attendees are already familiar with your project or how it solves a given
+  problem. Talk proposals may cover very specific solutions to a problem, or may
+  be a higher level project overview for lesser known projects.
+
+
+Code of Conduct
+===============
+
+  [FOSDEM Code of Conduct]:
+
+  We'd like to remind all speakers and attendees that all of the presentations
+  and discussions in our devroom are held under the guidelines set in the CoC
+  and we expect attendees, speakers, and volunteers to follow the CoC at all
+  times.
+
+  If you submit a proposal and it is accepted, you will be required to confirm
+  that you accept the FOSDEM CoC. If you have any questions about the CoC or
+  wish to have one of the devroom organizers review your presentation slides or
+  any other content for CoC compliance, please email us and we will do our best
+  to assist you.
+
+
+[FOSDEM Code of Conduct] https://fosdem.org/2022/practical/conduct/
+
+
+Proposals:
+==========
+
+  Proposals should be made through the [FOSDEM Pentabarf submission tool]. You
+  do not need to create a new Pentabarf account if you already have one from a
+  past year.
+
+  Please select the "Network" as the *track* and ensure you include the
+  following information when submitting a proposal:
+
+   Section  Field        Notes                                                                             
+  ---------------------------------------------------------------------------------------------------------
+   Person   Name(s)      Your first, last and public names.                                                
+   Person   Abstract     A short bio.                                                                      
+   Person   Photo        Please provide a photo.                                                           
+   Event    Event Title  *This is the title of your talk* - please be descriptive to encourage attendance. 
+   Event    Abstract     Short abstract of one or two paragraphs.                                          
+   Event    Duration     Please indicate the length of your talk; 15 min, 30 min or 45 min                 
+
+
+  If your talk is accepted, the deadline to upload your slides and a
+  pre-recorded version of your talk is Friday 28th January. FOSDEM will be held
+  on the weekend of February 5th & 6th, 2022 and the Network devroom will take
+  place on TBD.
+
+  Please also join the devroom’s mailing list, which is the official
+  communication channel for the devroom:
+
+  [network-devroom@lists.fosdem.org] (subscription page)
+
+
+[FOSDEM Pentabarf submission tool]
+https://penta.fosdem.org/submission/FOSDEM22
+
+[network-devroom@lists.fosdem.org]
+https://lists.fosdem.org/listinfo/network-devroom
+
+
+Team:
+=====
+
+  Ray Kinsella
+  Stephan Schmidt
+  Thomas Monjalon
+  Emma Foley
+  Alexander Biehl
+  Charles Eckel

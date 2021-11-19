@@ -1,0 +1,14 @@
+Hi {},
+
+Please find below the FOSDEM {} Network Devroom Call For Proposals (CFP). As
+always, we would appreciate your helping us to get the word out, by forwarding
+this CFP to any person or forum you think may be interested in FOSDEM. 
+
+FOSDEM has zero marketing budget, so we depend entirely on volunteers and our
+friends in open source spreading the word. If you are not interested in future
+updates about FOSDEM, please reply to this email and I will remove you from the
+distribution list.
+
+Thanks,
+
+Ray Kinsella
