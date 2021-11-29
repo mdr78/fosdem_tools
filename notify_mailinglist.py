@@ -54,10 +54,11 @@ class Contact():
     '''Encapsulation contact information'''
 
     def __init__(self, a):
-        if(len(a) != 4):
+        if(len(a) != 5):
             raise IndexError
 
-        self.email, self.first, self.last, self.full = a
+        self.email, self.first, self.last, self.full, self.comment = [
+            s.strip() for s in a]
 
 
 

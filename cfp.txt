@@ -19,7 +19,6 @@ Important Dates
    Friday 24th December  Announcement of selected talks                  
    Friday 28th January   Recorded Presentation and slide upload deadline 
    5 & 6th February      Conference dates (online)                       
-   TBD                   Network devroom date (online)                   
 
 
 About the devroom
@@ -108,8 +107,7 @@ Proposals:
 
   If your talk is accepted, the deadline to upload your slides and a
   pre-recorded version of your talk is Friday 28th January. FOSDEM will be held
-  on the weekend of February 5th & 6th, 2022 and the Network devroom will take
-  place on TBD.
+  on the weekend of February 5th & 6th, 2022.
 
   Please also join the devroom’s mailing list, which is the official
   communication channel for the devroom:
